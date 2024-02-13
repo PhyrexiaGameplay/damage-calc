@@ -1,11 +1,12 @@
 var SETDEX_DPP = {
   "Milotic": {
-    "OU Physically Defensive": {"ability":"Marvel Scale","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Surf","Ice Beam","Haze","Recover"]},
-    "UU Physically Defensive": {"ability":"Marvel Scale","item":"Leftovers","nature":"Bold","ivs":{"at":30,"sa":30},"evs":{"hp":248,"df":252,"sp":8},"moves":["Surf","Hidden Power Grass","Recover","Ice Beam"]},
-    "UU RestTalk": {"ability":"Marvel Scale","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":200,"sd":56},"moves":["Rest","Sleep Talk","Surf","Ice Beam"]},
-    "UU Specially Defensive": {"ability":"Marvel Scale","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":192,"sd":56,"sp":8},"moves":["Surf","Toxic","Ice Beam","Recover"]},
-    "UU Special Attacker": {"ability":"Marvel Scale","item":"Choice Specs","nature":"Timid","ivs":{"at":30,"sa":30},"evs":{"hp":4,"sa":252,"sp":252},"moves":["Hydro Pump","Ice Beam","Hidden Power Grass","Hypnosis"]},
-    "UU Life Orb": {"ability":"Marvel Scale","item":"Life Orb","nature":"Modest","ivs":{"at":30,"sa":30},"evs":{"hp":152,"df":80,"sa":220,"sp":56},"moves":["Hydro Pump","Ice Beam","Hidden Power Grass","Recover"]}
+    "Poke Fan Beverly": {"level":27,"ability":"Swift Swim","nature":"Quiet","moves":["Mirror Coat","Recover","Toxic","Substitute"]},
+    "Picknicker Tiffany": {"level":42,"ability":"Swift Swim","nature":"Sassy","moves":["Surf","Ice Beam","Recover","Mirror Coat"]},
+    "Twins Clea & Gil": {"level":44,"ability":"Swift Swim","nature":"Rash","moves":["Muddy Water","Psychic","Dragon Pulse","Icy Wind"]},
+    "Scientist Gregg": {"level":45,"ability":"Swift Swim","item":"Lum Berry","nature":"Bold","moves":["Ice Beam","Surf","Recover","Mirror Coat"]},
+    "Rocket HQ Grunt 6": {"level":45,"ability":"Marvel Scale","item":"Flame Orb","nature":"Jolly","moves":["Recover","Surf","Thunderbolt","Ice Beam"]},
+    "Sinnoh Trainer Lucas": {"level":55,"ability":"Marvel Scale","item":"Flame Orb","nature":"Jolly","moves":["Hydro Pump","Ice Beam","Recover","HP Ground"]},
+    
   },
   "Rotom-Heat": {
     "OU Choice Scarf": {"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Overheat","Shadow Ball","Trick"]},
